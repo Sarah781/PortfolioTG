@@ -6,7 +6,6 @@
 * [Terceiro Semestre - IonicHealth](#em-2021-2)
 * [Quarto Semestre - IonicHealth](#em-2022-1)
 * [Quinto Semestre - ](#em-2022-2)
-* [Sexto Semestre - ](#em-2023-1)
 * [Meus Conhecimentos](#meus-conhecimentos)
 * [Contato](#contato)
 
@@ -22,15 +21,31 @@
 
 ### Em 2020-2
 
+### Parceiro Acadêmico
+
+
+
 ### Em 2021-1
+
+### Parceiro Acadêmico
+
+
 
 ### Em 2021-2
 
+### Parceiro Acadêmico
+
+
+
 ### Em 2022-1
+
+### Parceiro Acadêmico
+
+
 
 ### Em 2022-2
 
-### Em 2023-1
+### Parceiro Acadêmico
 
 
 
