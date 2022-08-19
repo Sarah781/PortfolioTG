@@ -1,11 +1,11 @@
 # Sumário
 
 * [Sobre a autora ](#introdução)
-* [Primeiro Semestre - Cyber Mind](#em-2020-2)
-* [Segundo Semestre - GSW](#em-2021-1)
-* [Terceiro Semestre - IonicHealth](#em-2021-2)
-* [Quarto Semestre - Visiona](#em-2022-1)
-* [Quinto Semestre - ](#em-2022-2)
+* [Primeiro Semestre](#em-2020-2)
+* [Segundo Semestre](#em-2021-1)
+* [Terceiro Semestre](#em-2021-2)
+* [Quarto Semestre](#em-2022-1)
+* [Quinto Semestre](#em-2022-2)
 * [Meus Conhecimentos](#meus-conhecimentos)
 * [Contato](#contato)
 
@@ -21,31 +21,32 @@
 
 ### Em 2020-2
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: Fatec
+Cyber Mind
 
 
 
 ### Em 2021-1
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: GSW
 
 
 
 ### Em 2021-2
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: IonicHealth
 
 
 
 ### Em 2022-1
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: Visiona
 
 
 
 ### Em 2022-2
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: Fatec
 
 
 
