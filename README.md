@@ -14,7 +14,7 @@
 ## Introdução
 
 <div>
-  <img src="" alt="Foto de perfil" width=150 height=150 />
+  <img src="https://avatars.githubusercontent.com/u/72801105?v=4" alt="Foto de perfil" width=150 height=150 />
   <p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente Estagiária na EDP São Paulo, em São José dos Campos.</p>
 </div>
 
