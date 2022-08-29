@@ -21,13 +21,13 @@
 
 ### Em 2020-2
 
-### *Parceiro Acadêmico: Fatec*
+#### *Parceiro Acadêmico: Fatec*
 Cyber Mind
 
-### Objetivo do projeto -
-Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos didáticos de qualidade, fomentando a cultura e agregando valores ao cliente de acordo com as regras de negócios.
+#### Objetivo do projeto -
+Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos didáticos de qualidade, agregando valores ao cliente de acordo com as regras de negócios.
 
-### Descrição do projeto -
+#### Descrição do projeto -
 O projeto têm como objetivo a criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 
 
