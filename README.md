@@ -121,6 +121,16 @@ Como está o preço do adubo, custo de produção da soja.
 
 ### Parceiro Acadêmico: Fatec
 
+### Objetivo do projeto 
+
+
+### Descrição do projeto 
+
+
+### Link do Github
+
+
+### Tecnologias adotadas na solução
 
 
 ## Meus Conhecimentos
