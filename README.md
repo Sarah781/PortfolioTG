@@ -82,6 +82,15 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 *
 *
 
+### Contribuições pessoais
+
+
+### Hard Skills
+
+
+### Soft Skills
+
+
 ### Em 2021-2
 
 ### Parceiro Acadêmico: IonicHealth
@@ -103,6 +112,16 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 * HTML, CSS, JS
 * C# 
 * PostgreSQL
+
+### Contribuições pessoais
+
+
+### Hard Skills
+
+
+### Soft Skills
+
+
 ### Em 2022-1
 
 ### Parceiro Acadêmico: Visiona
@@ -131,6 +150,15 @@ Como está o preço do adubo, custo de produção da soja.
 * PostgreSQL 
 * SQLLite
 
+### Contribuições pessoais
+
+
+### Hard Skills
+
+
+### Soft Skills
+
+
 ### Em 2022-2
 
 ### Parceiro Acadêmico: Fatec
@@ -145,6 +173,15 @@ Como está o preço do adubo, custo de produção da soja.
 
 
 ### Tecnologias adotadas na solução
+
+
+### Contribuições pessoais
+
+
+### Hard Skills
+
+
+### Soft Skills
 
 
 ## Meus Conhecimentos
