@@ -42,6 +42,20 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 * Edição e gravação de vídeos: CamStudio
 
+
+### Contribuições pessoais
+Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na etapa final, e desenvolvimento no frontend, ajudei no desenvolvimento do site, como estilizar o site com cores, adicionar imagens.
+
+### Hard Skills
+* Figma- Sei fazer com autonomia
+* HTML- Sei fazer com ajuda
+* CSS- Sei fazer com ajuda
+* JavaScript- Sei fazer com ajuda 
+
+### Soft Skills
+* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
+* Trabalho em equipe: essencial para que o projeto chegue até o cliente e funcionando. 
+
 ### Em 2021-1
 
 ### Parceiro Acadêmico: GSW
