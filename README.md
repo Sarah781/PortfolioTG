@@ -37,9 +37,7 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 
 * Frontend: HTML5, CSS3, JavaScript e Bootstrap
-
 * Backend: PHP e MySQL
-
 * Edição e gravação de vídeos: CamStudio
 
 
@@ -55,6 +53,10 @@ Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na e
 ### Soft Skills
 * Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
 * Trabalho em equipe: essencial para que o projeto chegue até o cliente e funcionando. 
+
+
+
+
 
 ### Em 2021-1
 
@@ -78,9 +80,12 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 <a href="https://github.com/Leo0256/Equipe_Lider-Projeto_GSW" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Líder</span></a>
 
 ### Tecnologias adotadas na solução
-*
-*
-*
+
+* PLpgSQL
+* .Net
+* C#
+
+
 
 ### Contribuições pessoais
 
@@ -89,6 +94,9 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 
 ### Soft Skills
+
+
+
 
 
 ### Em 2021-2
@@ -120,6 +128,9 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
 
 ### Soft Skills
+
+
+
 
 
 ### Em 2022-1
@@ -159,6 +170,9 @@ Como está o preço do adubo, custo de produção da soja.
 ### Soft Skills
 
 
+
+
+
 ### Em 2022-2
 
 ### Parceiro Acadêmico: Fatec
@@ -184,7 +198,11 @@ Como está o preço do adubo, custo de produção da soja.
 ### Soft Skills
 
 
+
+
+
 ## Meus Conhecimentos
+
 
 
 
