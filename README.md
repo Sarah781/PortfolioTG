@@ -29,14 +29,17 @@ Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos di
 ### Descrição do projeto 
 O projeto têm como objetivo a criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 
+<p>
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/site-cybermind.jpg?raw=true" alt="Foto de Demonstração do projeto"/>
+
 
 
 ### Link do Github
-<a href="https://github.com/Sarah781/API_primeiro_semestre" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Cyber Mind</span></a>
+<a href="https://github.com/Sarah781/API_primeiro_semestre" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Cyber Mind</span></a>
 
 ### Tecnologias adotadas na solução
 
-
+* Protótipo: Figma
 * Frontend: HTML5, CSS3, JavaScript e Bootstrap
 * Backend: PHP e MySQL
 * Edição e gravação de vídeos: CamStudio
@@ -75,30 +78,32 @@ Desenvolver uma aplicação para Análise de Dados unificados através de um das
 Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos projetos em andamento, em um único dashboard de forma ágil e simples, integrando os dados de diferentes fontes (Trello e JIRA).
 
 
-COLOCAR O GIF 
+<p>
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/GIFprototipo.gif?raw=true" alt="GIF de Demonstração do projeto"/>
 
 ### Link do Github
-
+<a href="https://github.com/Leo0256/Equipe_Lider-Projeto_GSW" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Lider</span></a>
 
 ### Tecnologias adotadas na solução
 
-
 * C#  
 * PLpgSQL
+* SQL
+* Figma
 
 
 ### Contribuições pessoais
-
-
+Protótipo figma, e auxilio no frontend para a estruturação do site.
 ### Hard Skills
-* 
-* 
-* 
-*  
+* C#- sei fazer com ajuda
+* SQL- sei fazer com ajuda
+* Figma- sei fazer com autonomia
+* PLpgSQL- sei fazer com ajuda
 
 ### Soft Skills
-* Gestão de tempo: 
-* Trabalho em equipe: 
+* Organização de atividades: para o bom desenvolvimento da equipe
+* Proatividade: ver o andamento das atividades, adiantar ou auxiliar o próximo
+
 
 
 
