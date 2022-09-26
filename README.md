@@ -93,7 +93,7 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 
 ### Contribuições pessoais
-Protótipo figma, e auxilio no frontend para a estruturação do site.
+Protótipo figma, e auxílio no frontend para a estruturação do site.
 ### Hard Skills
 * C#- sei fazer com ajuda
 * SQL- sei fazer com ajuda
