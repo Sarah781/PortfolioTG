@@ -30,6 +30,7 @@ Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos di
 O projeto têm como objetivo a criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 
 
+
 ### Link do Github
 <a href="https://github.com/Sarah781/API_primeiro_semestre" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Cyber Mind</span></a>
 
@@ -53,6 +54,51 @@ Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na e
 ### Soft Skills
 * Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
 * Trabalho em equipe: essencial para que o projeto chegue até o cliente e funcionando. 
+
+
+### Em 2021-1
+
+### Parceiro Acadêmico: GSW
+
+### Objetivo do projeto 
+Desenvolver uma aplicação para Análise de Dados unificados através de um dashboard, onde a diretoria possa visualizar o status de cada projeto, sendo possível analisar os dados por:
+* Quantidade por status;
+* Quantidade de horas por pessoa;
+* Quantidade de horas por mês;
+* Quantidade de horas por ano;
+* Quantidade de horas por projeto;
+* Porcentagem de dedicação de cada integrante da equipe por projeto;
+* Quantidade de tasks em aberto.
+
+
+### Descrição do projeto 
+Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos projetos em andamento, em um único dashboard de forma ágil e simples, integrando os dados de diferentes fontes (Trello e JIRA).
+
+
+COLOCAR O GIF 
+
+### Link do Github
+
+
+### Tecnologias adotadas na solução
+
+
+* C#  
+* PLpgSQL
+
+
+### Contribuições pessoais
+
+
+### Hard Skills
+* 
+* 
+* 
+*  
+
+### Soft Skills
+* Gestão de tempo: 
+* Trabalho em equipe: 
 
 
 
