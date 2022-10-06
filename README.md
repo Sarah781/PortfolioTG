@@ -54,8 +54,8 @@ Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na e
 
 ### Hard Skills
 * Figma- Sei fazer com autonomia
-* HTML- Sei fazer com ajuda
-* CSS- Sei fazer com ajuda
+* HTML- Sei fazer 
+* CSS- Sei fazer 
 * JavaScript- Sei fazer com ajuda 
 * Bootstrap- Sei fazer com ajuda
 * PHP- Sei fazer com ajuda
@@ -101,6 +101,7 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 ### Contribuições pessoais
 Protótipo figma, e auxílio no frontend para a estruturação do site.
+
 ### Hard Skills
 * C#- sei fazer com ajuda
 * SQL- sei fazer com ajuda
@@ -112,5 +113,108 @@ Protótipo figma, e auxílio no frontend para a estruturação do site.
 * Proatividade: ver o andamento das atividades, adiantar ou auxiliar o próximo
 
 
+### Em 2021-2
 
+### Parceiro Acadêmico: IonicHealth
+
+### Objetivo do projeto
+Criar um CRM (Customer Relationship Management) Web Online para o gerenciamento de pipelines e clientes.
+
+### Descrição do projeto 
+"Temos um problema complicado com a gestão de diversos clientes de nossa empresa. Com o aumento na quantidade de clientes, cresce a complexidade de manter um bom relacionamento com todos eles.
+Desta forma, precisamos de uma plataforma web que tenha como objetivo organizar todo o processo comercial de nossa empresa, mas não se limitando apenas a este objetivo. Esta plataforma de CRM - Customer Relationship Management - dará suporte às áreas de vendas e área de negócios da empresa.
+A plataforma web deve realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.
+Seu layout deve ser de fácil personalização, possuindo templates pré definidos, trazendo autonomia para a gestão da plataforma.", Ionic Health.
+
+<p>
+
+### Link do Github
+<a href="https://github.com/Leo0256/API-IoniCRM_IonicHealth" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Lider</span></a>
+
+### Tecnologias adotadas na solução
+
+* C#  
+* ASP.NET
+* HTML
+* CSS
+* JavaScript
+* PostgreSQL
+* Figma
+
+
+### Contribuições pessoais
+Protótipo figma, para auxílio da montagem das telas, e no frontend para plataforma Web.
+
+### Hard Skills
+* C#- sei fazer com ajuda
+* PostgreSQL- sei fazer com ajuda
+* Figma- sei fazer com autonomia
+* HTML- sei fazer 
+* CSS- sei fazer
+* JavaScript- sei fazer com ajuda
+* ASP.NET- sei fazer com ajuda
+
+
+### Soft Skills
+* Organização de atividades: para o bom desenvolvimento da equipe
+* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
+
+
+
+### Em 2022-1
+
+### Parceiro Acadêmico: Visiona
+
+### Objetivo do projeto
+Criação de um Aplicativo colaborativo para produtores rurais.
+Produtor - Estas informações consistem em dados alfa numéricos e imagens georreferenciadas pelo GPS do celular.
+contrapartida - Através dos dados de diversos usuários, o APP fornecerá ao usuário informações estatísticas sobre
+sua produção, comparando -a com dados históricos acessadas de APIs públicas e informações atuais de outros usuários.
+
+
+### Descrição do projeto 
+É o agricultor ter na palma da mão, o aplicativo onde ele possa analisar a sua propriedade, seu talhão agrícola, levantar dados de produtividade e alimentar um banco de dados. Este banco de dados será utilizado para alimentar outros processos internos. Criação de um aplicativo colaborativo para produtores rurais, então o agricultor entrará na sua área da soja, vai levantar dados agrícolas para ter relação com a produtividade, em contrapartida a ideia seria empregar informativos para os agricultores em formas de Dashboards, por exemplo:
+Como está o preço da saca da soja para a sua localidade.
+Como está o comportamento da chuva no período de 7 dias.
+Como está o preço do adubo, custo de produção da soja.
+
+
+<p>
+
+### Link do Github
+<a href="https://github.com/ferreirarita/API-4-SrSoja-2022-1" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>SrSoja</span></a>
+
+### Tecnologias adotadas na solução
+
+* Figma  
+* React Native
+* JavaScript
+* PostgreSQL
+* SQLite
+
+
+### Contribuições pessoais
+Tela Clima/Tempo no período de 7 dias, auxíio no figma.
+
+### Hard Skills
+* Figma- sei fazer com autonomia
+* React Native- sei fazer com ajuda
+* JavaScript - sei fazer com ajuda
+* PostgreSQL- sei fazer com ajuda
+* SQLite- sei fazer com ajuda
+
+
+
+### Soft Skills
+* Organização de atividades: para o bom desenvolvimento da equipe
+* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega
+* Trabalho em equipe: Para divisão de tarefas para realizar as entregas no prazo
+
+
+
+## Meus Conhecimentos
+Sei programar em HTML, CSS, Python sei fazer com ajuda, sei fazer layout no editor figma e ainda me aperfeiçoando em outras linguagens. 
+
+## Contato
+<a href="https://github.com/Sarah781" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>LinkedIn</span></a>
 
