@@ -39,9 +39,13 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 ### Tecnologias adotadas na solução
 
-* Protótipo: Figma
-* Frontend: HTML5, CSS3, JavaScript e Bootstrap
-* Backend: PHP e MySQL
+* Figma
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* PHP
+* MySQL
 * Edição e gravação de vídeos: CamStudio
 
 
@@ -53,6 +57,9 @@ Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na e
 * HTML- Sei fazer com ajuda
 * CSS- Sei fazer com ajuda
 * JavaScript- Sei fazer com ajuda 
+* Bootstrap- Sei fazer com ajuda
+* PHP- Sei fazer com ajuda
+* MySQL- Sei fazer com ajuda
 
 ### Soft Skills
 * Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
