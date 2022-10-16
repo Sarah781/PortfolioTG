@@ -210,8 +210,8 @@ Tela Clima/Tempo no período de 7 dias, auxíio no figma.
 
 
 ## Meus Conhecimentos
-Sei programar em HTML, CSS, Python sei fazer com ajuda, sei fazer layout no editor figma e ainda me aperfeiçoando em outras linguagens. 
+Sei programar em HTML, CSS, Python, possuo conhecimentos em PowerBi e SQL, sei fazer layout no editor figma e ainda me aperfeiçoando em outras linguagens como JavaScript e ReactNative.
 
 ## Contato
-<a href="https://github.com/Sarah781" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>LinkedIn</span></a>
+* [LinkedIn](https://www.linkedin.com/in/sarah-santana-843394200/)
 
