@@ -51,7 +51,7 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 
 ### Contribuições pessoais
-Protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na etapa final, e desenvolvimento no frontend, ajudei no desenvolvimento do site, como estilizar o site com cores, adicionar imagens.
+Neste projeto contribuí com protótipo no Figma, desenvolvimento das telas para ter a visão do projeto na etapa final, e desenvolvimento no frontend utilizando HTML, CSS e JavaScript, ajudei no desenvolvimento do site criando a seção de cursos, desenvolvendo a logo e ajudando com a estilização com CSS.
 
 ### Hard Skills
 * Figma- Sei fazer com autonomia
