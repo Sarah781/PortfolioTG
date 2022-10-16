@@ -38,14 +38,11 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 <a href="https://github.com/Sarah781/API_primeiro_semestre" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Cyber Mind</span></a>
 
 ### Tecnologias adotadas na solução
+  
+* Frontend: HTML5, CSS3, JavaScript e Bootstrap
 
-* Figma
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* PHP
-* MySQL
+* Backend: PHP e MySQL
+
 * Edição e gravação de vídeos: CamStudio
 
 
