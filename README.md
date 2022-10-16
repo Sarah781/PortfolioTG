@@ -46,6 +46,8 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 * Backend: PHP e MySQL
 
 * Edição e gravação de vídeos: CamStudio
+  
+* Protótipo: Figma  
 
 
 ### Contribuições pessoais
@@ -92,20 +94,18 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 ### Tecnologias adotadas na solução
 
-* C#  
-* PLpgSQL
-* SQL
-* Figma
+* C# : Usado na criação da interface gráfica e o backend da apicação desktop  
+* PostgreSQL: SGBD utilizado para armazenar os dados da aplicação 
+* Figma: protótipo
 
 
 ### Contribuições pessoais
-Protótipo figma, e auxílio no frontend para a estruturação do site.
+Protótipo figma, e auxílio na criação da interface.
 
 ### Hard Skills
 * C#- sei fazer com ajuda
-* SQL- sei fazer com ajuda
 * Figma- sei fazer com autonomia
-* PLpgSQL- sei fazer com ajuda
+* PostgreSQL- sei fazer com ajuda
 
 ### Soft Skills
 * Organização de atividades: para o bom desenvolvimento da equipe
@@ -132,15 +132,13 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
 ### Tecnologias adotadas na solução
 
-* C#  
-* ASP.NET
-* HTML
-* CSS
-* JavaScript
-* PostgreSQL
-* Figma
+* Frontend: HTML, CSS e JavaScript 
 
+* Backend: PostgreSQL, C#  
+  
+* Protótipo: Figma  
 
+  
 ### Contribuições pessoais
 Protótipo figma, para auxílio da montagem das telas, e no frontend para plataforma Web.
 
@@ -151,7 +149,7 @@ Protótipo figma, para auxílio da montagem das telas, e no frontend para plataf
 * HTML- sei fazer 
 * CSS- sei fazer
 * JavaScript- sei fazer com ajuda
-* ASP.NET- sei fazer com ajuda
+
 
 
 ### Soft Skills
@@ -185,11 +183,11 @@ Como está o preço do adubo, custo de produção da soja.
 
 ### Tecnologias adotadas na solução
 
-* Figma  
-* React Native
-* JavaScript
-* PostgreSQL
-* SQLite
+* Frontend:React Native, JavaScript 
+
+* Backend: PostgreSQL, SQLite
+  
+* Protótipo: Figma  
 
 
 ### Contribuições pessoais
@@ -198,7 +196,7 @@ Tela Clima/Tempo no período de 7 dias, auxíio no figma.
 ### Hard Skills
 * Figma- sei fazer com autonomia
 * React Native- sei fazer com ajuda
-* JavaScript - sei fazer com ajuda
+* JavaScript- sei fazer com ajuda
 * PostgreSQL- sei fazer com ajuda
 * SQLite- sei fazer com ajuda
 
