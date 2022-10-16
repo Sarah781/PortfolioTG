@@ -100,7 +100,7 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 
 ### Contribuições pessoais
-Protótipo figma, e auxílio na criação da interface.
+Neste projeto contribuí com o protótipo no figma, auxílio na criação da interface, desenvolvi a tela de categorias da aplicação desktop utilizando C# para criar a interface.
 
 ### Hard Skills
 * C#- sei fazer com ajuda
@@ -140,7 +140,7 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
   
 ### Contribuições pessoais
-Protótipo figma, para auxílio da montagem das telas, e no frontend para plataforma Web.
+Neste projeto auxiliei na criação do protótipo no figma para montagem das telas, fui responsável por colocar o dark mode no frontend para plataforma web e mobile.
 
 ### Hard Skills
 * C#- sei fazer com ajuda
@@ -191,7 +191,7 @@ Como está o preço do adubo, custo de produção da soja.
 
 
 ### Contribuições pessoais
-Tela Clima/Tempo no período de 7 dias, auxíio no figma.
+Para este projeto fiquei responsável pela criação da tela do clima no período de 7 dias utilizando React Native e JavaScript e ajudei na prototipação das telas da aplicação no figma.
 
 ### Hard Skills
 * Figma- sei fazer com autonomia
