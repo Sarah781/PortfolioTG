@@ -140,7 +140,7 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
   
 ### Contribuições pessoais
-Neste projeto auxiliei na criação do protótipo no figma para montagem das telas, fui responsável por colocar o dark mode no frontend para plataforma web e mobile.
+Neste projeto auxiliei na criação do protótipo no figma para montagem das telas, fui responsável por criar o dark mode no frontend para plataforma web e mobile utilizando HTML, CSS e JavaScript.
 
 ### Hard Skills
 * C#- sei fazer com ajuda
