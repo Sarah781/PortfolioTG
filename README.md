@@ -63,8 +63,8 @@ Neste projeto contribuí com protótipo no Figma, desenvolvimento das telas para
 * MySQL- Sei fazer com ajuda
 
 ### Soft Skills
-* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
-* Trabalho em equipe: essencial para que o projeto chegue até o cliente e funcionando. 
+* Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois na primeira sprint a falta dessa skill fez com que o grupo não conseguiu entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
+* Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
 ### Em 2021-1
@@ -108,8 +108,7 @@ Neste projeto contribuí com o protótipo no figma, auxílio na criação da int
 * PostgreSQL- sei fazer com ajuda
 
 ### Soft Skills
-* Organização de atividades: para o bom desenvolvimento da equipe
-* Proatividade: ver o andamento das atividades, adiantar ou auxiliar o próximo
+* Organização de atividades: Começamos a utilizar o Jira desde o começo até o fim do projeto, para evitar problemas que tivemos em outros APIs e para garantir que as tasks estavam sendo entregues conforme o esperado.
 
 
 ### Em 2021-2
@@ -153,8 +152,8 @@ Neste projeto auxiliei na criação do protótipo no figma para montagem das tel
 
 
 ### Soft Skills
-* Organização de atividades: para o bom desenvolvimento da equipe
-* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega.
+* Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois a falta dessa skill em outros APIs fez com que o grupo não conseguisse entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
+* Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
 
@@ -203,9 +202,8 @@ Para este projeto fiquei responsável pela criação da tela do clima no períod
 
 
 ### Soft Skills
-* Organização de atividades: para o bom desenvolvimento da equipe
-* Gestão de tempo: identificar as atividades que são mais complexas, as que são mais rápidas e a data de entrega
-* Trabalho em equipe: Para divisão de tarefas para realizar as entregas no prazo
+* Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois a falta dessa skill em outros APIs fez com que o grupo não conseguisse entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
+* Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
 
