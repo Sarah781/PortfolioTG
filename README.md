@@ -17,7 +17,7 @@
   <img src="https://avatars.githubusercontent.com/u/72801105?v=4" alt="Foto de perfil" width=150 height=150 />
   <p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, Formada como Técnica em Administração pela ETEC em 2019, e atualmente estagiária na EDP São Paulo, em São José dos Campos.
 
-Iniciei na área de programação quando tinha 12 anos de idade, neste tempo me interessei pela robótica e desde então venho estudando e acabei gostando muito da parte de programação, atualmente me identifico mais com frontend, HTML, CSS e afins, mas minha linguagem preferida é Python. Sempre estudei em escola publica, comecei a fazer estágio em programação após entrar na FATEC, e que até o momento é a única faculdade que fiz e foi assim que consegui meu primeiro emprego. </p>
+Iniciei na área de programação quando tinha 12 anos de idade, neste tempo me interessei pela robótica e desde então venho estudando e acabei gostando muito da parte de programação, atualmente me identifico mais com frontend, HTML, CSS e afins, mas minha linguagem preferida é Python. Sempre estudei em escola pública, comecei a fazer estágio em programação após entrar na FATEC, e que até o momento é a única faculdade que fiz e foi assim que consegui meu primeiro emprego. </p>
 </div>
 
 
@@ -165,7 +165,7 @@ Neste projeto auxiliei na criação do protótipo no figma para montagem das tel
 Criação de um Aplicativo colaborativo para produtores rurais.
 Produtor - Estas informações consistem em dados alfa numéricos e imagens georreferenciadas pelo GPS do celular.
 contrapartida - Através dos dados de diversos usuários, o APP fornecerá ao usuário informações estatísticas sobre
-sua produção, comparando -a com dados históricos acessadas de APIs públicas e informações atuais de outros usuários.
+sua produção, comparando-a com dados históricos acessadas de APIs públicas e informações atuais de outros usuários.
 
 
 ### Descrição do projeto 
