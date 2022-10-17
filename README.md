@@ -63,7 +63,7 @@ Neste projeto contribuí com protótipo no Figma, desenvolvimento das telas para
 * MySQL- Sei fazer com ajuda
 
 ### Soft Skills
-* Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois na primeira sprint a falta dessa skill fez com que o grupo não conseguiu entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
+* Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois na primeira sprint a falta dessa skill fez com que o grupo não conseguisse entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
 * Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
