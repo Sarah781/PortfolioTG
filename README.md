@@ -125,6 +125,11 @@ A plataforma web deve realizar a organização dos contatos, a gestão de pipeli
 Seu layout deve ser de fácil personalização, possuindo templates pré definidos, trazendo autonomia para a gestão da plataforma.", Ionic Health.
 
 <p>
+<img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Desktop/Historico-Dashboard.gif" alt="Demonstração do projeto"/>
+
+<p>
+<img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Mobile/Deal.gif" alt="Demonstração do projeto"/>
+
 
 ### Link do Github
 <a href="https://github.com/Leo0256/API-IoniCRM_IonicHealth" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Lider</span></a>
@@ -177,6 +182,7 @@ Como está o preço do adubo, custo de produção da soja.
 
 <p>
 
+
 ### Link do Github
 <a href="https://github.com/ferreirarita/API-4-SrSoja-2022-1" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>SrSoja</span></a>
 
@@ -203,6 +209,60 @@ Para este projeto fiquei responsável pela criação da tela do clima no períod
 
 ### Soft Skills
 * Gestão de tempo: Foi necessário saber gerenciar bem o tempo durante este projeto, pois a falta dessa skill em outros APIs fez com que o grupo não conseguisse entregar o esperado e por isso começamos a acompanhar melhor as tasks pelo Jira.
+* Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
+
+
+### Em 2022-2
+
+### Parceiro Acadêmico: Fatec
+
+### Objetivo do projeto
+A criação de uma aplicação mobile para coleta de dados públicos, de acordo com o conceito citizens sensors, para auxilio da secretaria de obras e serviço público.
+
+
+### Descrição do projeto 
+Utilizar a função dentro do APP para tirar a fotografia;
+Utlizar o Georreferenciamento da foto;
+Fazer o armazenamento da foto direto no Back-end da aplicação;
+A Modelagem de banco de dados para armazenamento de gande volume de dados.
+
+
+<p> 
+<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
+
+
+<p> 
+<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppEditarPerfilExcluirConta.gif" alt="Demonstração do projeto"/>
+
+
+### Link do Github
+<a href="https://github.com/Jonathan-Assis/API-5-OP-2022-2" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe NOX</span></a>
+
+
+### Tecnologias adotadas na solução
+
+* Frontend: React Native, JavaScript
+
+* Backend: NodeJs
+
+* Banco: MongoDB
+  
+* Protótipo: Figma  
+
+
+### Contribuições pessoais
+Neste projeto fui responsável na criação do protótipo no figma para montagem das telas, auxiliei na tela de manual do usuário com JavaScript e ReactNative.
+
+
+### Hard Skills
+* Figma- sei fazer com autonomia
+* React Native- sei fazer com ajuda
+* JavaScript- sei fazer com ajuda
+* MongoDB- sei fazer com ajuda 
+* NodeJS- sei fazer com ajuda
+
+
+### Soft Skills
 * Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
