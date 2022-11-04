@@ -128,7 +128,7 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 <img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Desktop/Historico-Dashboard.gif" alt="Demonstração do projeto"/>
 
 <p>
-<img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Mobile/Deal.gif" alt="Demonstração do projeto"/>
+<img src="hhttps://github.com/Sarah781/PortifolioTG/blob/main/Img/Deal.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
@@ -228,7 +228,7 @@ A Modelagem de banco de dados para armazenamento de gande volume de dados.
 
 
 <p> 
-<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
 
 
 <p> 
