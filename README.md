@@ -128,7 +128,7 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 <img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Desktop/Historico-Dashboard.gif" alt="Demonstração do projeto"/>
 
 <p>
-<img src="hhttps://github.com/Sarah781/PortifolioTG/blob/main/Img/Deal.gif" alt="Demonstração do projeto"/>
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/Deal.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
