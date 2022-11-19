@@ -136,7 +136,7 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
 ### Tecnologias adotadas na solução
 
-* Frontend: HTML, CSS e JavaScript 
+* Frontend: HTML, CSS e JavaScript
 
 * Backend: PostgreSQL, C#  
   
@@ -188,7 +188,7 @@ Como está o preço do adubo, custo de produção da soja.
 
 ### Tecnologias adotadas na solução
 
-* Frontend:React Native, JavaScript 
+* Frontend:React Native, JavaScript-  Usado na criação da interface gráfica
 
 * Backend: PostgreSQL, SQLite
   
@@ -241,7 +241,7 @@ A Modelagem de banco de dados para armazenamento de gande volume de dados.
 
 ### Tecnologias adotadas na solução
 
-* Frontend: React Native, JavaScript
+* Frontend: React Native, JavaScript-  Usado na criação da interface gráfica
 
 * Backend: NodeJs
 
@@ -251,7 +251,7 @@ A Modelagem de banco de dados para armazenamento de gande volume de dados.
 
 
 ### Contribuições pessoais
-Neste projeto fui responsável na criação do protótipo no figma para montagem das telas, auxiliei na tela de manual do usuário com JavaScript e ReactNative.
+Neste projeto fui responsável na criação do protótipo no figma para montagem das telas, construi a tela de walkthrough com JavaScript e ReactNative.
 
 
 ### Hard Skills
