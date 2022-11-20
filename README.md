@@ -24,6 +24,9 @@ Iniciei na área de programação quando tinha 12 anos de idade, neste tempo me 
 ### Em 2020-2
 
 ### Parceiro Acadêmico: Fatec
+Área de atuação:A Faculdade de Tecnologia de São José dos Campos-SP, oferece oportunidades de acesso ao mercado de trabalho por meio de cursos superiores de graduação gratuitos e de qualidade comprovada.
+Sede: São José dos Campos
+Fundada: 2 de março de 2006 conforme o Decreto Nº 50.580 publicado no Diário Oficial
 
 ### Objetivo do projeto 
 Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos didáticos de qualidade, agregando valores ao cliente de acordo com as regras de negócios.
@@ -70,6 +73,9 @@ Neste projeto contribuí com protótipo no Figma, desenvolvimento das telas para
 ### Em 2021-1
 
 ### Parceiro Acadêmico: GSW
+Área de atuação: Soluções de TI para gestão de negócios
+Sede: Parque Tecnológico-São José dos Campos
+Fundada: 1991
 
 ### Objetivo do projeto 
 Desenvolver uma aplicação para Análise de Dados unificados através de um dashboard, onde a diretoria possa visualizar o status de cada projeto, sendo possível analisar os dados por:
@@ -215,6 +221,9 @@ Para este projeto fiquei responsável pela criação da tela do clima no períod
 ### Em 2022-2
 
 ### Parceiro Acadêmico: Fatec
+Área de atuação:A Faculdade de Tecnologia de São José dos Campos-SP, oferece oportunidades de acesso ao mercado de trabalho por meio de cursos superiores de graduação gratuitos e de qualidade comprovada.
+Sede: São José dos Campos
+Fundada: A Faculdade de Tecnologia de São José dos Campos foi criada no dia 2 de março de 2006 conforme o Decreto Nº 50.580 publicado no Diário Oficial
 
 ### Objetivo do projeto
 A criação de uma aplicação mobile para coleta de dados públicos, de acordo com o conceito citizens sensors, para auxilio da secretaria de obras e serviço público.
