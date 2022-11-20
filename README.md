@@ -120,6 +120,9 @@ Neste projeto contribuí com o protótipo no figma, auxílio na criação da int
 ### Em 2021-2
 
 ### Parceiro Acadêmico: IonicHealth
+<p>Área de atuação: Serviços Digitais: uma base sólida de serviços digitais e tecnologia da informação especializada no setor de saúde para atender às demandas de seu negócio.</p>
+<p>Sede: Parque Tecnológico-São José dos Campos</p>
+<p>Fundada: 1991, a empresa NESS Technology nasceu com foco na inovação e transformação, entregando resultados com rapidez e segurança. Em 2019, nasceu a NESS Health. Em 2021, nasceu a IONIC Saúde.</p>
 
 ### Objetivo do projeto
 Criar um CRM (Customer Relationship Management) Web Online para o gerenciamento de pipelines e clientes.
@@ -171,6 +174,9 @@ Neste projeto auxiliei na criação do protótipo no figma para montagem das tel
 ### Em 2022-1
 
 ### Parceiro Acadêmico: Visiona
+<p>Área de atuação: Integração de sistemas espaciais</p>
+<p>Sede: Parque Tecnológico-São José dos Campos</p>
+<p>Fundada: 2012</p>
 
 ### Objetivo do projeto
 Criação de um Aplicativo colaborativo para produtores rurais.
