@@ -227,9 +227,9 @@ Para este projeto fiquei responsável pela criação da tela do clima no períod
 ### Em 2022-2
 
 ### Parceiro Acadêmico: Fatec
-Área de atuação:A Faculdade de Tecnologia de São José dos Campos-SP, oferece oportunidades de acesso ao mercado de trabalho por meio de cursos superiores de graduação gratuitos e de qualidade comprovada.
-Sede: São José dos Campos
-Fundada: A Faculdade de Tecnologia de São José dos Campos foi criada no dia 2 de março de 2006 conforme o Decreto Nº 50.580 publicado no Diário Oficial
+<p>Área de atuação:A Faculdade de Tecnologia de São José dos Campos-SP, oferece oportunidades de acesso ao mercado de trabalho por meio de cursos superiores de graduação gratuitos e de qualidade comprovada.</p>
+<p>Sede: São José dos Campos</p>
+<p>Fundada: 2 de março de 2006 conforme o Decreto Nº 50.580 publicado no Diário Oficial</p>
 
 ### Objetivo do projeto
 A criação de uma aplicação mobile para coleta de dados públicos, de acordo com o conceito citizens sensors, para auxilio da secretaria de obras e serviço público.
