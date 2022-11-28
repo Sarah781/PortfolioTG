@@ -24,10 +24,9 @@ Iniciei na área de programação quando tinha 12 anos de idade, neste tempo me 
 ### Em 2020-2
 
 ### Parceiro Acadêmico: Fatec
-<p>A [Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal] (https://fatecsjc-prd.azurewebsites.net/) que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+A [Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal] (https://fatecsjc-prd.azurewebsites.net/) que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
 Para acompanhar o crescimento da chamada indústria 4.0, a instituição propôs adotar uma estratégia de Aprendizado por Projeto Integrador (chamado API), e no segundo semestre de 2020, iniciou esse projeto e se disponibilizou como empresa parceira.
 
-</p>
 
 ### Objetivo do projeto 
 Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos didáticos de qualidade, agregando valores ao cliente de acordo com as regras de negócios.
@@ -74,11 +73,11 @@ Neste projeto contribuí com protótipo no Figma, desenvolvimento das telas para
 ### Em 2021-1
 
 ### Parceiro Acadêmico: GSW
-<p>A [GSW](http://www.gsw.com.br/) é uma empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
+A [GSW](http://www.gsw.com.br/) é uma empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
 
 Com 25 anos de experiência em projetos globais de TI e mais de 400 colaboradores espalhados por 6 unidades, a GSW oferece portfólio abrangente, construído através de sólidas alianças com empresas de soluções globais em TI, como Thomson Reuters, SAP, Microsoft, IBM, Oracle e Salesforce.
 
-A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.</p>
+A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.
 
 ### Objetivo do projeto 
 Desenvolver uma aplicação para Análise de Dados unificados através de um dashboard, onde a diretoria possa visualizar o status de cada projeto, sendo possível analisar os dados por:
@@ -123,7 +122,7 @@ Neste projeto contribuí com o protótipo no figma, auxílio na criação da int
 ### Em 2021-2
 
 ### Parceiro Acadêmico: IonicHealth
-<p>A [IonicHealth] (https://pt-br.ionic.health/) Em 1991, a empresa NESS Technology nasceu com foco na inovação e transformação, entregando resultados com rapidez e segurança. Assim como o mundo e a tecnologia, ao longo dos anos, a empresa também passou por constantes transformações.
+A [IonicHealth] (https://pt-br.ionic.health/) Em 1991, a empresa NESS Technology nasceu com foco na inovação e transformação, entregando resultados com rapidez e segurança. Assim como o mundo e a tecnologia, ao longo dos anos, a empresa também passou por constantes transformações.
 
 Em 2017, suas três principais verticais de operação: saúde, jurídica e segurança começaram a seguir seus próprios caminhos.
 
@@ -133,7 +132,7 @@ Mas as mudanças não pararam, exigindo não apenas mais avanços tecnológicos,
 
 Tinha chegado o momento de nossa própria identidade, baseada nos princípios que norteiam nosso campo. Incorporar em nossa história um elemento que trouxesse à tona e fosse capaz de realmente se conectar com nossa essência.
 
-E foi quando, em 2021, nasceu a IONIC Saúde.</p>
+E foi quando, em 2021, nasceu a IONIC Saúde.
 
 ### Objetivo do projeto
 Criar um CRM (Customer Relationship Management) Web Online para o gerenciamento de pipelines e clientes.
@@ -185,7 +184,7 @@ Neste projeto auxiliei na criação do protótipo no figma para montagem das tel
 ### Em 2022-1
 
 ### Parceiro Acadêmico: Visiona
-<p>A [Visiona Tecnologia Espacial] (https://www.visionaespacial.com.br/quem-somos) é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras voltada para a integração de sistemas espaciais. Aliando as competências de integração de sistemas da Embraer com o conhecimento acumulado do INPE na integração de satélites, a Visiona tem um papel de liderança no setor, coordenando as ações empresariais da indústria de forma a prover soluções para as necessidades civis e militares brasileiras de satélites. A empresa foi a responsável pelo programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas, o SGDC, e é líder no mercado brasileiro de sensoriamento remoto orbital. Em 2018, a Visiona Tecnologia Espacial S.A. anunciou o programa do primeiro satélite desenvolvido por uma empresa privada, o VCUB, e concluiu com êxito o desenvolvimento do primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil.</p>
+A [Visiona Tecnologia Espacial] (https://www.visionaespacial.com.br/quem-somos) é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras voltada para a integração de sistemas espaciais. Aliando as competências de integração de sistemas da Embraer com o conhecimento acumulado do INPE na integração de satélites, a Visiona tem um papel de liderança no setor, coordenando as ações empresariais da indústria de forma a prover soluções para as necessidades civis e militares brasileiras de satélites. A empresa foi a responsável pelo programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas, o SGDC, e é líder no mercado brasileiro de sensoriamento remoto orbital. Em 2018, a Visiona Tecnologia Espacial S.A. anunciou o programa do primeiro satélite desenvolvido por uma empresa privada, o VCUB, e concluiu com êxito o desenvolvimento do primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil.
 
 ### Objetivo do projeto
 Criação de um Aplicativo colaborativo para produtores rurais.
@@ -236,8 +235,8 @@ Para este projeto fiquei responsável pela criação da tela do clima no períod
 ### Em 2022-2
 
 ### Parceiro Acadêmico: Fatec
-<p>A [Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal] (https://fatecsjc-prd.azurewebsites.net/) que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
-Para acompanhar o crescimento da chamada indústria 4.0, a instituição propôs adotar uma estratégia de Aprendizado por Projeto Integrador (chamado API), e nesse segundo semestre de 2022, iniciou esse projeto e se disponibilizou como empresa parceira.</p>
+A [Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal] (https://fatecsjc-prd.azurewebsites.net/) que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar o crescimento da chamada indústria 4.0, a instituição propôs adotar uma estratégia de Aprendizado por Projeto Integrador (chamado API), e nesse segundo semestre de 2022, iniciou esse projeto e se disponibilizou como empresa parceira.
 
 ### Objetivo do projeto
 A criação de uma aplicação mobile para coleta de dados públicos, de acordo com o conceito citizens sensors, para auxilio da secretaria de obras e serviço público.
