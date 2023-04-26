@@ -41,7 +41,7 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 
 ### Link do Github
-[![](https://img.shields.io/badge/%20-CyberMind-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781/API_primeiro_semestre)
+[![](https://img.shields.io/badge/%20-CyberMind-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/arapujo/pi_primeiro_semestre)
 
 
 ### Tecnologias adotadas na solução
