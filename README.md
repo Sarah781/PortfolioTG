@@ -6,6 +6,7 @@
 * [Terceiro Semestre](#em-2021-2)
 * [Quarto Semestre](#em-2022-1)
 * [Quinto Semestre](#em-2022-2)
+* [Sexto Semestre](#em-2023-1)
 * [Meus Conhecimentos](#meus-conhecimentos)
 * [Contato](#contato)
 
@@ -288,9 +289,56 @@ Neste projeto fui responsável na criação do protótipo no figma para montagem
 * Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
 
 
+### Em 2023-1
+
+### Parceiro Acadêmico: JPMorgan
+O [JPMorgan](https://www.jpmorgan.com/global) opera no Brasil há 70 anos. Os serviços oferecidos incluem: Investment Bank, Global Corporate Bank, Asset Management, Private Banking e Treasury & Securities Services. A empresa proporciona aos clientes ampla variedade de serviços integrados que combinam conhecimento especializado com posições de liderança através desses negócios. 
+
+### Objetivo do projeto
+Sistema para acompanhamento de serviços utilizando Análise de Dados
+
+
+### Descrição do projeto 
+Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente, os bancos sempre foram enormes caixas-fortes quando se tratam do armazenamento dos dados de seus clientes e, agora, há um novo paradigma que gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
+
+<p> 
+<img src="" alt="Projeto"/>
+
+
+
+### Link do Github
+<a href="https://github.com/Sarah781/API-6-SeeTax" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>SeeTax</span></a>
+
+
+### Tecnologias adotadas na solução
+
+* Frontend: Vue.js - Utilizado para o Frontend da página.
+
+* Backend: Java, Spring Boot - Utilizado para o Backend da página.
+
+* IA: Python. 
+  
+* Protótipo: Figma - Utilizado para prototipagem da pagina Web.
+
+
+### Contribuições pessoais
+Neste projeto fui responsável na criação do esboço da tabela de ranking, removi algumas funcionalidades que estavam duplicadas e ajudei na criação da IA.
+
+
+### Hard Skills
+* Figma- sei fazer com autonomia
+* VueJs- sei fazer 
+* Java- sei fazer com ajuda
+* Spring Boot- sei fazer com ajuda 
+* Python- sei fazer com ajuda
+
+
+### Soft Skills
+* Trabalho em equipe: Foi necessário, pois tivemos que distribuir bem as tarefas para que todos da equipe pudessem contribuir e ajudar uns aos outros para entregar a solução uma vez que nem todo mundo dominava uma determinada tecnologia.
+
 
 ## Meus Conhecimentos
-Sei programar em HTML, CSS, Python, possuo conhecimentos em PowerBi e SQL, sei fazer layout no editor figma e ainda me aperfeiçoando em outras linguagens como JavaScript e React Native.
+Sei programar em HTML, CSS, Vue, possuo conhecimentos em PowerBi, sei fazer layout no editor figma e ainda me aperfeiçoando em outras linguagens como :  JavaScript, TypeScript, Python
 
 ## Contato
 * [LinkedIn](https://www.linkedin.com/in/sarah-santana-843394200/)
