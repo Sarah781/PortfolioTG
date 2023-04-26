@@ -41,7 +41,8 @@ O projeto têm como objetivo a criação de um site de venda de conteúdos didá
 
 
 ### Link do Github
-<a href="https://github.com/Sarah781/API_primeiro_semestre" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Cyber Mind</span></a>
+[![](https://img.shields.io/badge/%20-CyberMind-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781/API_primeiro_semestre)
+
 
 ### Tecnologias adotadas na solução
   
@@ -99,7 +100,8 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 <img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/GIFprototipo.gif?raw=true" alt="GIF de Demonstração do projeto"/>
 
 ### Link do Github
-<a href="https://github.com/Leo0256/Equipe_Lider-Projeto_GSW" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Lider</span></a>
+[![](https://img.shields.io/badge/%20-EquipeLider-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
+
 
 ### Tecnologias adotadas na solução
 
@@ -152,7 +154,8 @@ Seu layout deve ser de fácil personalização, possuindo templates pré definid
 
 
 ### Link do Github
-<a href="https://github.com/Leo0256/API-IoniCRM_IonicHealth" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe Lider</span></a>
+[![](https://img.shields.io/badge/%20-EquipeLider-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256/API-IoniCRM_IonicHealth)
+
 
 ### Tecnologias adotadas na solução
 
@@ -201,11 +204,16 @@ Como está o comportamento da chuva no período de 7 dias.
 Como está o preço do adubo, custo de produção da soja.
 
 
-<p>
+<p> 
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/SrSoja-Video.gif" alt="Demonstração do projeto"/>
+
+<p> 
+<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/SrSoja-Video2.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
-<a href="https://github.com/ferreirarita/API-4-SrSoja-2022-1" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>SrSoja</span></a>
+[![](https://img.shields.io/badge/%20-SrSoja-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/ferreirarita/API-4-SrSoja-2022-1)
+
 
 ### Tecnologias adotadas na solução
 
@@ -259,7 +267,8 @@ A Modelagem de banco de dados para armazenamento de gande volume de dados.
 
 
 ### Link do Github
-<a href="https://github.com/Jonathan-Assis/API-5-OP-2022-2" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Equipe NOX</span></a>
+[![](https://img.shields.io/badge/%20-EquipeNox-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Jonathan-Assis/API-5-OP-2022-2)
+
 
 
 ### Tecnologias adotadas na solução
@@ -296,6 +305,7 @@ O [JPMorgan](https://www.jpmorgan.com/global) opera no Brasil há 70 anos. Os se
 
 ### Objetivo do projeto
 Sistema para acompanhamento de serviços utilizando Análise de Dados
+Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do Open Finance
 
 
 ### Descrição do projeto 
@@ -307,7 +317,9 @@ Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer uma no
 
 
 ### Link do Github
-<a href="https://github.com/Sarah781/API-6-SeeTax" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 1px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>SeeTax</span></a>
+
+[![](https://img.shields.io/badge/%20-SeeTax-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781/API-6-SeeTax)
+
 
 
 ### Tecnologias adotadas na solução
