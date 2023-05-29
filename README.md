@@ -82,14 +82,7 @@ Com 25 anos de experiência em projetos globais de TI e mais de 400 colaboradore
 A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.
 
 ### Objetivo do projeto 
-Desenvolver uma aplicação para Análise de Dados unificados através de um dashboard, onde a diretoria possa visualizar o status de cada projeto, sendo possível analisar os dados por:
-* Quantidade por status;
-* Quantidade de horas por pessoa;
-* Quantidade de horas por mês;
-* Quantidade de horas por ano;
-* Quantidade de horas por projeto;
-* Porcentagem de dedicação de cada integrante da equipe por projeto;
-* Quantidade de tasks em aberto.
+Desenvolver uma aplicação para Análise de Dados unificados através de um dashboard, onde a diretoria possa visualizar o status de cada projeto.
 
 
 ### Descrição do projeto 
@@ -141,8 +134,7 @@ E foi quando, em 2021, nasceu a IONIC Saúde.
 Criar um CRM (Customer Relationship Management) Web Online para o gerenciamento de pipelines e clientes.
 
 ### Descrição do projeto 
-"Temos um problema complicado com a gestão de diversos clientes de nossa empresa. Com o aumento na quantidade de clientes, cresce a complexidade de manter um bom relacionamento com todos eles.
-Desta forma, precisamos de uma plataforma web que tenha como objetivo organizar todo o processo comercial de nossa empresa, mas não se limitando apenas a este objetivo. Esta plataforma de CRM - Customer Relationship Management - dará suporte às áreas de vendas e área de negócios da empresa.
+"Esta plataforma de CRM - Customer Relationship Management - dará suporte às áreas de vendas e área de negócios da empresa.
 A plataforma web deve realizar a organização dos contatos, a gestão de pipeline, o monitoramento e acompanhamento de clientes.
 Seu layout deve ser de fácil personalização, possuindo templates pré definidos, trazendo autonomia para a gestão da plataforma.", Ionic Health.
 
@@ -198,10 +190,7 @@ sua produção, comparando-a com dados históricos acessadas de APIs públicas e
 
 
 ### Descrição do projeto 
-É o agricultor ter na palma da mão, o aplicativo onde ele possa analisar a sua propriedade, seu talhão agrícola, levantar dados de produtividade e alimentar um banco de dados. Este banco de dados será utilizado para alimentar outros processos internos. Criação de um aplicativo colaborativo para produtores rurais, então o agricultor entrará na sua área da soja, vai levantar dados agrícolas para ter relação com a produtividade, em contrapartida a ideia seria empregar informativos para os agricultores em formas de Dashboards, por exemplo:
-Como está o preço da saca da soja para a sua localidade.
-Como está o comportamento da chuva no período de 7 dias.
-Como está o preço do adubo, custo de produção da soja.
+É o agricultor ter na palma da mão, o aplicativo onde ele possa analisar a sua propriedade, seu talhão agrícola, levantar dados de produtividade e alimentar um banco de dados. Este banco de dados será utilizado para alimentar outros processos internos. Criação de um aplicativo colaborativo para produtores rurais, então o agricultor entrará na sua área da soja, vai levantar dados agrícolas para ter relação com a produtividade, em contrapartida a ideia seria empregar informativos para os agricultores em formas de Dashboards.
 
 
 <p> 
