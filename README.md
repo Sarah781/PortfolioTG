@@ -36,7 +36,7 @@ Desenvolver um site de e-commerce no qual os alunos possam acessar conteúdos di
 O projeto têm como objetivo a criação de um site de venda de conteúdos didáticos voltado para a área da tecnologia. O trabalho visa a interação dos alunos com o cliente, no qual os mesmos possuem acesso as regras do projeto que são definidas pelo cliente, para assim atender suas demandas e necessidades.
 
 <p>
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/site-cybermind.jpg?raw=true" alt="Foto de Demonstração do projeto"/>
+<img src="Img/site-cybermind.jpg" alt="Foto de Demonstração do projeto"/>
 
 
 
@@ -97,7 +97,7 @@ Para a empresa GSW Soluções Integradas, que deseja visualizar os status dos pr
 
 
 <p>
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/GIFprototipo.gif?raw=true" alt="GIF de Demonstração do projeto"/>
+<img src="Img/GIFprototipo.gif" alt="Demonstração do projeto"/>
 
 ### Link do Github
 [![](https://img.shields.io/badge/%20-EquipeLider-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256/Equipe_Lider-Projeto_GSW)
@@ -147,10 +147,10 @@ A plataforma web deve realizar a organização dos contatos, a gestão de pipeli
 Seu layout deve ser de fácil personalização, possuindo templates pré definidos, trazendo autonomia para a gestão da plataforma.", Ionic Health.
 
 <p>
-<img src="https://github.com/Leo0256/API-IoniCRM_IonicHealth/blob/Sprint_4/Gifs/Desktop/Historico-Dashboard.gif" alt="Demonstração do projeto"/>
+<img src="Img/Historico-Dashboard.gif" alt="Demonstração do projeto"/>
 
 <p>
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/Deal.gif" alt="Demonstração do projeto"/>
+<img src="Img/Deal.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
@@ -205,10 +205,10 @@ Como está o preço do adubo, custo de produção da soja.
 
 
 <p> 
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/SrSoja-Video.gif" alt="Demonstração do projeto"/>
+<img src="Img/SrSoja-Video.gif" alt="Demonstração do projeto"/>
 
 <p> 
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/SrSoja-Video2.gif" alt="Demonstração do projeto"/>
+<img src="Img/SrSoja-Video2.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
@@ -259,11 +259,11 @@ A Modelagem de banco de dados para armazenamento de gande volume de dados.
 
 
 <p> 
-<img src="https://github.com/Sarah781/PortifolioTG/blob/main/Img/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
+<img src="Img/AppCriandoOcorrencia.gif" alt="Demonstração do projeto"/>
 
 
 <p> 
-<img src="https://github.com/Jonathan-Assis/API-5-OP-2022-2/blob/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/Imagens/AppEditarPerfilExcluirConta.gif" alt="Demonstração do projeto"/>
+<img src="Img/AppCriandoOcorrencia2.gif" alt="Demonstração do projeto"/>
 
 
 ### Link do Github
@@ -311,10 +311,8 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 ### Descrição do projeto 
 Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente, os bancos sempre foram enormes caixas-fortes quando se tratam do armazenamento dos dados de seus clientes e, agora, há um novo paradigma que gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
 
-<p> 
-<img src="https://github.com/Sarah781/PortfolioTG/blob/main/Img/Seetax.gif" alt="Projeto"/>
-
-
+<p>  
+<img src="Img/SeeTax.gif" alt="Demonstração do projeto"/>
 
 ### Link do Github
 
