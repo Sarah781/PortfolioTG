@@ -311,13 +311,14 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 ### Descrição do projeto 
 Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente, os bancos sempre foram enormes caixas-fortes quando se tratam do armazenamento dos dados de seus clientes e, agora, há um novo paradigma que gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
 
-<p>  
-<img src="Img/SeeTax.gif" alt="Demonstração do projeto"/>
+
+<p> 
+<img src="Img/Seetax.gif" alt="Projeto"/>
+
 
 ### Link do Github
 
 [![](https://img.shields.io/badge/%20-SeeTax-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781/API-6-SeeTax)
-
 
 
 ### Tecnologias adotadas na solução
@@ -330,6 +331,8 @@ Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer uma no
   
 * Protótipo: Figma - Utilizado para prototipagem da pagina Web.
 
+* Banco de Dados: MySQL - Utilizado para armazenamento de dados.
+
 
 ### Contribuições pessoais
 Neste projeto fui responsável na criação do esboço da tabela de ranking, removi algumas funcionalidades que estavam duplicadas e ajudei na criação da IA.
@@ -341,6 +344,7 @@ Neste projeto fui responsável na criação do esboço da tabela de ranking, rem
 * Java- sei fazer com ajuda
 * Spring Boot- sei fazer com ajuda 
 * Python- sei fazer com ajuda
+* MySQL- sei fazer com ajuda
 
 
 ### Soft Skills
