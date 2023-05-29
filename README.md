@@ -300,8 +300,8 @@ Neste projeto fui responsável na criação do protótipo no figma para montagem
 
 ### Em 2023-1
 
-### Parceiro Acadêmico: JPMorgan
-O [JPMorgan](https://www.jpmorgan.com/global) opera no Brasil há 70 anos. Os serviços oferecidos incluem: Investment Bank, Global Corporate Bank, Asset Management, Private Banking e Treasury & Securities Services. A empresa proporciona aos clientes ampla variedade de serviços integrados que combinam conhecimento especializado com posições de liderança através desses negócios. 
+### Parceiro Acadêmico: Instituição Financeira
+A [Instituição Financeira](https://www.jpmorgan.com/global) opera no Brasil há 70 anos. Os serviços oferecidos incluem: Investment Bank, Global Corporate Bank, Asset Management, Private Banking e Treasury & Securities Services. A empresa proporciona aos clientes ampla variedade de serviços integrados que combinam conhecimento especializado com posições de liderança através desses negócios. 
 
 ### Objetivo do projeto
 Sistema para acompanhamento de serviços utilizando Análise de Dados
